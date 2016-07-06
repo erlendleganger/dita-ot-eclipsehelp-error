@@ -1,1 +1,16 @@
-TBD
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+    <concept id="con0">
+        <title>mydoc-conrefsrc.dita</title>
+        <conbody>
+
+                <p>
+                <ph id="ph-test01">This is phrase id=test-01</ph>
+                </p>
+                <p id="p-test02">This is para id=test-02.</p>
+
+            <note id="note-test03">This is note id=test-03.</note>
+
+        </conbody>
+    </concept>
+</dita>
