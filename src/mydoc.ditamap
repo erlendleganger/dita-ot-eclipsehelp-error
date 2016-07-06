@@ -1,1 +1,7 @@
-TBD
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="mydoc">
+    <title>Test document for DITA OT Eclipse transforms</title>
+    <topicref href="mydoc.dita"/>
+    <keydef href="resource/mydoc-conrefsrc.dita" keys="mykey" type="topic"/>
+</map>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" []>
+<concept id="mydoc" xml:lang="en-us">
+   <title>Welcome</title>
+   <conbody>
+      <p>This is a test document for checking out the error in the <codeph>eclipsehelp</codeph> transform that seems to be present in DITA OT 2.x.</p>
+
+      <p>Here is a sample conkeyref phrase: <ph conkeyref="mykey/ph-test01"/>.</p>
+      <p>Here is a sample conkeyref paragraph:</p>
+      <p conkeyref="mykey/p-test02"/>
+      <p>Here is a sample conkeyref note:</p>
+      <note conkeyref="mykey/note-test03"/>
+
+
+   </conbody>
+</concept>
